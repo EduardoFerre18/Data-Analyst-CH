@@ -1,0 +1,13 @@
+Fuente dataset1
+
+https://www.kaggle.com/datasets/abhishekrp1517/sales-data-for-economic-data-analysis
+
+Fuente dataset2
+
+https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024
+
+Fuente dataset3
+
+https://www.kaggle.com/datasets/missionjee/car-sales-report
+
+

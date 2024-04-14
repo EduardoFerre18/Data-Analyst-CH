@@ -1,0 +1,25 @@
+Year (Año): Esta columna representa el año en que ocurrió la transacción. Puede utilizarse para rastrear tendencias a lo largo del tiempo o para filtrar datos basándose en un año específico o un rango de años.
+
+Month (Mes): Esta columna representa el mes en que ocurrió la transacción. Puede utilizarse para rastrear tendencias a lo largo del tiempo o para filtrar datos basándose en un mes específico o un rango de meses.
+
+Customer Age (Edad del Cliente): Esta columna representa la edad del cliente. Puede utilizarse para segmentar a los clientes según rangos de edad o para analizar el comportamiento de compra de diferentes grupos de edad.
+
+Customer Gender (Género del Cliente): Esta columna representa el género del cliente. Puede utilizarse para segmentar a los clientes según el género o para analizar el comportamiento de compra de diferentes géneros.
+
+Country (País): Esta columna representa el país donde ocurrió la transacción. Puede utilizarse para analizar las ventas por país o para filtrar datos basándose en un país específico o un rango de países.
+
+State (Estado): Esta columna representa el estado donde ocurrió la transacción. Puede utilizarse para analizar las ventas por estado o para filtrar datos basándose en un estado específico o un rango de estados.
+
+Product Category (Categoría del Producto): Esta columna representa la categoría general del producto vendido. Puede utilizarse para analizar las ventas por categoría de producto o para filtrar datos basándose en una categoría de producto específica.
+
+Sub Category (Subcategoría): Esta columna representa la subcategoría específica del producto vendido. Puede utilizarse para analizar las ventas por subcategoría o para filtrar datos basándose en una subcategoría específica.
+
+Quantity (Cantidad): Esta columna representa la cantidad del producto vendido. Puede utilizarse para analizar el volumen de ventas o para calcular los ingresos totales generados por un producto o categoría de productos específicos.
+
+Unit Cost (Costo Unitario): Esta columna representa el costo de producir o adquirir una unidad del producto. Puede utilizarse para calcular los márgenes de beneficio o para comparar los costos de diferentes productos o categorías de productos.
+
+Unit Price (Precio Unitario): Esta columna representa el precio al que se vendió una unidad del producto. Puede utilizarse para analizar estrategias de precios o para comparar los precios de diferentes productos o categorías de productos.
+
+Cost (Costo): Esta columna representa el costo total de los productos vendidos, calculado como el producto de la cantidad y el costo unitario. Puede utilizarse para analizar la estructura de costos del negocio o para calcular el margen de beneficio de cada venta.
+
+Revenue (Ingresos): Esta columna representa los ingresos totales generados por las ventas, calculados como el producto de la cantidad y el precio unitario. Puede utilizarse para analizar el rendimiento general de las ventas del negocio o para calcular el beneficio generado por cada venta.
